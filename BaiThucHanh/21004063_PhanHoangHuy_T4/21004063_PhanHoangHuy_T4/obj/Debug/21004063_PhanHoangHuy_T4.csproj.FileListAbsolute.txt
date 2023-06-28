@@ -1,0 +1,14 @@
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\bin\Debug\21004063_PhanHoangHuy_T4.exe.config
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\bin\Debug\21004063_PhanHoangHuy_T4.exe
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\bin\Debug\21004063_PhanHoangHuy_T4.pdb
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\21004063_PhanHoangHuy_T4.csproj.AssemblyReference.cache
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\21004063_PhanHoangHuy_T4.csproj.SuggestedBindingRedirects.cache
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\_21004063_PhanHoangHuy_T4.bai8.resources
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\_21004063_PhanHoangHuy_T4.Properties.Resources.resources
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\21004063_PhanHoangHuy_T4.csproj.GenerateResource.cache
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\21004063_PhanHoangHuy_T4.csproj.CoreCompileInputs.cache
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\21004063_PhanHoangHuy_T4.exe
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\21004063_PhanHoangHuy_T4.pdb
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\_21004063_PhanHoangHuy_T4.cau9.resources
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\_21004063_PhanHoangHuy_T4.bai10.resources
+C:\21004063_PhanHoangHuy_T4\21004063_PhanHoangHuy_T4\obj\Debug\_21004063_PhanHoangHuy_T4.bai11.resources

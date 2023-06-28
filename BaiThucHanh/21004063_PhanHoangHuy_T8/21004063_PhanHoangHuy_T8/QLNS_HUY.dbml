@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLNS_HUY" Class="QLNS_HUYDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-UDG1TOM\SQLEXPRESS;Initial Catalog=QLNS_HUY;User ID=sa" SettingsObjectName="_21004063_PhanHoangHuy_T8.Properties.Settings" SettingsPropertyName="QLNS_HUYConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Bophan" Member="Bophans">
+    <Type Name="Bophan">
+      <Column Name="IDBophan" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MSBophan" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TenBophan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Bophan_Nhanvien" Member="Nhanviens" ThisKey="IDBophan" OtherKey="IDBophan" Type="Nhanvien" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Nhanvien" Member="Nhanviens">
+    <Type Name="Nhanvien">
+      <Column Name="IDNhanvien" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MSNhanvien" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Hoten" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ngaysinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Gioitinh" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="IDBophan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Bophan_Nhanvien" Member="Bophan" ThisKey="IDBophan" OtherKey="IDBophan" Type="Bophan" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
