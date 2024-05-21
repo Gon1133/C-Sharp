@@ -1,8 +1,0 @@
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\obj\Debug\LapTrinhDotNet.csproj.AssemblyReference.cache
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\obj\Debug\LapTrinhDotNet.csproj.SuggestedBindingRedirects.cache
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\obj\Debug\LapTrinhDotNet.csproj.CoreCompileInputs.cache
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\bin\Debug\LapTrinhDotNet.exe.config
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\bin\Debug\LapTrinhDotNet.exe
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\bin\Debug\LapTrinhDotNet.pdb
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\obj\Debug\LapTrinhDotNet.exe
-D:\University\Nam_II\LapTrinh-DotNET\LapTrinhDotNet\LapTrinhDotNet\obj\Debug\LapTrinhDotNet.pdb
